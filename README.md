@@ -1,6 +1,6 @@
 # Grid Page
 
-O projeto consiste em uma pagina com grid com o tema de fotografia, com boas práticas de acessibilidade e responsividade. Efeitos de animação com CSS
+O projeto consiste em uma pagina com grid com o tema de fotografia, com boas práticas de acessibilidade, responsividade e efeitos de animação com CSS.
 ## Screenshots
 ![App Screenshot](https://i.imgur.com/tnIj2gC.png)
 
